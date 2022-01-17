@@ -1,3 +1,3 @@
 # mods
-mods123
+mods.rar
 copy to minecraft mod folder
